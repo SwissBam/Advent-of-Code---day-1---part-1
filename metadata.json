@@ -1,0 +1,5 @@
+{
+  "name": "North Pole Security Access",
+  "description": "A puzzle solver for the Advent of Code Day 1 challenge, featuring a secure dial simulation and AI-generated mission reports.",
+  "requestFramePermissions": []
+}
